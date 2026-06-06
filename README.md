@@ -233,3 +233,9 @@ Inspired by the work of [IndyDevDan](https://www.youtube.com/@indydevdan) — ch
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
